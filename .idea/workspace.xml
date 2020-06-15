@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bfeb472-cef6-47f9-be7f-61c22a544e8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1cAydUMDVe1ZFqvUoJ2tXln8GJa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bfeb472-cef6-47f9-be7f-61c22a544e8b" name="Default Changelist" comment="" />
+      <created>1589985779971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589985779971</updated>
+      <workItem from="1589985781158" duration="1596000" />
+      <workItem from="1590145997693" duration="8000" />
+      <workItem from="1590146794392" duration="611000" />
+      <workItem from="1590218820501" duration="302000" />
+      <workItem from="1590241725588" duration="3000" />
+      <workItem from="1590245479297" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="177" key="#PHP" timestamp="1589985950903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="177" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1589985950903" />
+  </component>
+</project>
