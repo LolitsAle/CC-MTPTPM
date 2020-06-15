@@ -57,3 +57,4 @@ $sql2 = "SELECT * FROM `user` WHERE userID='$userID'";
             <?php }} ?>
 <?php require("./footer.php");
 ?>
+<!-- Fix BUG -->
